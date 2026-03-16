@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Arya, passionate game developer working on awesome projects!
+Hi I'm Arya, passionate game programmer working on awesome projects!
 
 
 ## 🌐 Socials:
